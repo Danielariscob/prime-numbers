@@ -8,6 +8,11 @@ This project provides Python functions to work with prime numbers, including:
 - Counting prime numbers within a range
 - Using the Sieve of Eratosthenes for efficient prime number computation
 
+#### 📂 Project Structure
+ 
+ - 📄 prime_numbers.ipynb
+ - 📄 README.md
+   
 #### 🛠️ How to Run the Project
 
 1. Clone the repository:
